@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "549178427896",
+    "project_id": "socialaura",
+    "storage_bucket": "socialaura.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549178427896:android:fad2ecb6f8e9caa5d06e0d",
+        "android_client_info": {
+          "package_name": "com.example.ever_green_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549178427896-ckb0o2i1j8ebg35mqjdnqdno3hr466gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl3lvtBIGs4ctn9uFnhtN4YT0JhSrLNCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549178427896-ckb0o2i1j8ebg35mqjdnqdno3hr466gr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549178427896-27687b2k0drn55cehff801l8amrodp9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.socialAura.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549178427896:android:7ab259ad4d9ed9c1d06e0d",
+        "android_client_info": {
+          "package_name": "com.example.ezybooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549178427896-ckb0o2i1j8ebg35mqjdnqdno3hr466gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl3lvtBIGs4ctn9uFnhtN4YT0JhSrLNCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549178427896-ckb0o2i1j8ebg35mqjdnqdno3hr466gr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549178427896-27687b2k0drn55cehff801l8amrodp9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.socialAura.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549178427896:android:bcc2046ba43c4a78d06e0d",
+        "android_client_info": {
+          "package_name": "com.example.gossip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549178427896-ckb0o2i1j8ebg35mqjdnqdno3hr466gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl3lvtBIGs4ctn9uFnhtN4YT0JhSrLNCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549178427896-ckb0o2i1j8ebg35mqjdnqdno3hr466gr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549178427896-27687b2k0drn55cehff801l8amrodp9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.socialAura.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
